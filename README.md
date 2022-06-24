@@ -1,6 +1,6 @@
 # zoe-ds-challenge
 
-
+The documentation for this exists on Confluence: https://dataruk.atlassian.net/wiki/spaces/~628e69b5269a9a0068f31099/pages/2174025825/Data+Science+Challenge
 
 ## Getting started
 
